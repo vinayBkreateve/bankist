@@ -106,9 +106,9 @@
     transition: filter 0.5s;
   }
   
-  .lazy-img {
+  /* .lazy-img {
     filter: blur(20px);
-  }
+  } */
   
   /* NAVIGATION */
   .nav {
@@ -669,4 +669,14 @@
     color: #bbb;
     font-size: 1.5rem;
     font-weight: 400;
+  }
+
+  .login button{
+  background-color: rgb(192, 71, 71);
+  padding: 10px;
+  color: rgb(12, 75, 211);
+  cursor: pointer;
+ font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
   }
